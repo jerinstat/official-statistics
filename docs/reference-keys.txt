@@ -17,6 +17,17 @@ the-register-based-approach-administrative-data
 combined-census-methodologies
 the-rolling-census-approach
 modern-data-capture-techniques
+role-function-and-activities-of-central-and-state-statistical-organizations.
+overview-of-the-institutional-framework
+central-statistical-organizations
+central-statistics-office-cso
+national-sample-survey-office-nsso
+national-statistical-commission-nsc
+central-line-ministries
+state-statistical-organizations
+directorates-of-economics-and-statistics-des
+district-statistical-offices-dsos
+state-line-departments
 organization-of-large-scale-sample-surveys.-role-of-ministry-of-statistics-programme-implementation-mospi.
 central-statistical-office-cso-national-sample-survey-office-nsso-and-national-statistical-commission.
 government-of-indias-principal-publications-containing-data-on-topics-such-as-population-industry-and-finance.

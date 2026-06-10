@@ -95,7 +95,9 @@ To ensure that governments around the world produce statistics that citizens and
   - **Confidentiality:** Individual data collected for statistical purposes (whether from a person or a business) must be kept strictly confidential and used exclusively for statistical analysis.
   - **Transparency:** Statistical agencies must make their sources, methodologies, and procedures transparent to the public.
   
-[The slides based on this section is attached here](https://drive.google.com/file/d/1tP567YhTqwRlHY7WTX2w3jQJgjEFTQjO/view?usp=sharing) 
+[The slides based on this section is attached here](https://drive.google.com/file/d/1cT00ZOQwzN3Y3UyotzE62jd4YCnVvi6N/view?usp=sharing) 
+  
+
 
 ## Methods of Collection of Official Statistics
 
@@ -142,8 +144,90 @@ The collection of official statistics now utilizes multi-mode approaches and adv
 *   **Optical Reading Technology:** For paper-based data collection, statistical offices use Optical Mark Reading (OMR), Optical Character Reading (OCR), and Intelligent Character Recognition (ICR) to digitally scan and convert handwritten responses directly into computer data, drastically reducing manual data entry errors.
 *   **Geospatial Technology:** Data collection is increasingly supported by Geographic Information Systems (GIS) and Global Navigation Satellite Systems (GNSS). Enumerators use these to capture the exact geographic coordinates of households to ensure complete coverage and prevent duplication.
 
-[The slides based on this section is attached here](https://drive.google.com/file/d/1cT00ZOQwzN3Y3UyotzE62jd4YCnVvi6N/view?usp=sharing) 
+[The slides based on this section is attached here](https://drive.google.com/file/d/1tP567YhTqwRlHY7WTX2w3jQJgjEFTQjO/view?usp=sharing) 
+
 ## Role, function and activities of Central and State Statistical organizations.
+
+
+
+### **Overview of the Institutional Framework**
+The Indian Statistical System operates within a federal structure and is characterized by both lateral and vertical decentralization. 
+
+*   **Lateral Decentralization:** At both the Central and State levels, various line ministries and departments have their own statistical units to collect data pertaining to their specific administrative domains. 
+
+*   **Vertical Decentralization:** The responsibility of statistical collection is divided between the Central Government and the State Governments. While States hold the primary responsibility for collecting data in their specific sectors, the Central Government acts as the apex coordinating agency to ensure uniformity, maintain standards, and present statistics on an all-India basis.
+
+---
+
+### **Central Statistical Organizations**
+
+At the national level, the **Ministry of Statistics and Programme Implementation (MoSPI)** is the nodal agency responsible for the planned and integrated development of the statistical system in the country. MoSPI operates primarily through the National Statistical Office (NSO), which comprises the Central Statistics Office (CSO) and the National Sample Survey Office (NSSO).
+
+#### **Central Statistics Office (CSO)**
+The CSO is headed by a Director General and is primarily responsible for the coordination of statistical activities nationwide and for evolving and maintaining statistical standards. 
+
+**Key Roles and Activities of the CSO:**
+
+*   **National Income Accounting:** The CSO is responsible for the compilation and publication of National Accounts Statistics (NAS), which includes the estimation of the Gross Domestic Product (GDP), capital formation, and savings.
+
+*   **Industrial Statistics:** It processes the Annual Survey of Industries (ASI) and compiles the monthly Index of Industrial Production (IIP), which assesses changes in the growth and structure of the organized manufacturing sector.
+
+*   **Economic Censuses:** The CSO organizes and conducts periodic all-India Economic Censuses and subsequent follow-up enterprise surveys.
+
+*   **Price Indices:** It is responsible for compiling and releasing Consumer Price Indices (CPI) for Urban Non-Manual Employees.
+
+*   **Standardization and Training:** It lays down norms, standardizes concepts and definitions, revises the National Industrial Classification, and imparts training in official statistics to government personnel.
+
+#### **National Sample Survey Office (NSSO)**
+
+The NSSO is the premier organization for conducting large-scale, continuous sample surveys across India. It functions under the overall direction of a Steering Committee and is headed by a Director General and Chief Executive Officer.
+
+**Key Roles and Activities of the NSSO:**
+
+*   **Socio-Economic Surveys:** It conducts nationwide sample surveys on various socio-economic subjects such as employment and unemployment, consumer expenditure, housing conditions, health, and education.
+
+*   **Industrial and Agricultural Data Collection:** The NSSO's Field Operations Division is responsible for the primary data collection for the Annual Survey of Industries (ASI). It also supervises area enumeration and conducts sample checks on crop estimation surveys.
+
+*   **Survey Design and Processing:** Through its specific divisions (Survey Design and Research Division, and Data Processing Division), it plans survey methodologies, formulates questionnaires, and processes, validates, and tabulates the collected data.
+
+#### **National Statistical Commission (NSC)**
+
+Constituted in 2006, the NSC serves as an apex advisory and empowered body on statistical matters. 
+*   **Role:** Its mandate is to evolve, monitor, and enforce statistical priorities and standards across all ministries and ensure inter-agency statistical coordination.
+
+#### **Central Line Ministries**
+In addition to MoSPI, various Central Ministries maintain extensive statistical divisions. For example, the Directorate of Economics and Statistics under the Ministry of Agriculture compiles crop production data, the Labour Bureau compiles data on industrial workers' wages and CPI, and the Reserve Bank of India (RBI) collects statistics on banking, monetary policy, and finance.
+
+---
+
+### **State Statistical Organizations**
+
+At the State and Union Territory (UT) level, the system is coordinated by the **Directorates of Economics and Statistics (DES)**. Just as MoSPI acts as the nodal agency at the Centre, the DES acts as the nodal agency for all statistical activities within the State.
+
+#### **Directorates of Economics and Statistics (DES)**
+
+The DES is usually under the administrative control of the State's Planning Department and plays a pivotal role in decentralized planning.
+
+**Key Roles and Activities of the DES:**
+
+*   **State Income Estimation:** The DES is responsible for computing the Gross State Domestic Product (GSDP), Net State Domestic Product, and District Domestic Product.
+
+*   **Participation in National Surveys:** Most DESs participate in the socio-economic surveys conducted by the NSSO on a matching-sample basis, which helps in generating highly reliable state-level and regional-level estimates.
+
+*   **Agricultural and Economic Statistics:** They conduct Agricultural Censuses, supervise crop cutting experiments, and carry out Economic Censuses within the state.
+
+*   **Price and Administrative Statistics:** They collect wholesale and retail prices, compile localized Consumer Price Indices, and conduct the census of state government and local body employees.
+
+*   **Budget Analysis:** They perform the economic and purposive classification of the State Government budgets and local body finances.
+
+#### **District Statistical Offices (DSOs)**
+To facilitate grassroots data collection, the DES operates through District Statistical Offices (DSOs) located in the district headquarters.
+
+**Role:** DSOs act as the primary field agencies for the DES. They are responsible for the collection, scrutiny, and preliminary compilation of primary and secondary data at the district and block levels, and they frequently publish District Statistical Handbooks.
+
+#### **State Line Departments**
+Similar to the Central government, individual line departments within the State Governments (such as Health, Education, Forestry, and Commercial Taxes) possess their own statistical cells. These cells process and maintain administrative statistics necessary for departmental planning and submit this data to the DES for consolidated state-level reporting.
+
 
 ## Organization of large-scale sample surveys. Role of Ministry of Statistics & Programme Implementation (MoSPI).
 
