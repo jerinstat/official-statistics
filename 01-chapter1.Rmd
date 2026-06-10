@@ -95,6 +95,7 @@ To ensure that governments around the world produce statistics that citizens and
   - **Confidentiality:** Individual data collected for statistical purposes (whether from a person or a business) must be kept strictly confidential and used exclusively for statistical analysis.
   - **Transparency:** Statistical agencies must make their sources, methodologies, and procedures transparent to the public.
   
+[The slides based on this section is attached here](https://notebooklm.google.com/notebook/eb22c78a-4452-41d2-b889-c01b5b64d0a5/artifact/6f4f4fda-fc58-4952-b51e-e9460e951627?utm_source=nlm_web_share&utm_medium=google_oo&utm_campaign=art_share_1&utm_content=&utm_smc=nlm_web_share_google_oo_art_share_1_) 
 
 ## Methods of Collection of Official Statistics
 
