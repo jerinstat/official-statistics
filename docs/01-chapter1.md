@@ -11,7 +11,29 @@ The Indian Statistical System is a vast, complex, and highly structured network 
 *   **Ancient and Medieval Roots:** Statistics in India are as old as statecraft itself. The ancient Indian treatise, *Arthashastra*, explicitly refers to a network of village-level accountants responsible for collecting data on economic output. Similarly, the medieval text *Ain-i-Akbari* details an exhaustive administrative apparatus used to collect data on farm produce and standardizing weights and measurements.
 *   **The British Raj (1858–1947):** The modern official statistical system began taking shape during colonial rule. However, colonial efforts were primarily driven by self-interest—specifically to track markets for English products and manage revenue. Consequently, trade statistics were highly developed, while data on domestic socio-economic development was neglected. British officials also utilized these administrative statistics as propaganda to demonstrate to the British Parliament how well they were governing India.
 *   **Post-Independence and the Mahalanobis Era:** Following independence in 1947, India recognized the pressing need for a robust database to drive economic planning. A serious effort to revamp the system was led by **Prof. P.C. Mahalanobis**, who introduced the widespread use of random sampling—a revolutionary concept at the time. Under his guidance, the Directorate of National Sample Survey was established in 1950, followed by the Central Statistical Organization (CSO) in 1951, laying the modern foundation of India's statistical infrastructure. 
-*   **Modern Reforms:** In 2000, the government appointed a commission led by C. Rangarajan to identify system deficiencies. This directly led to the establishment of the **National Statistical Commission (NSC)** in 2006 as the apex advisory body on statistical matters, and the enactment of the comprehensive **Collection of Statistics Act, 2008**.
+
+_Following the death of Prof. P.C. Mahalanobis in 1972—the architect of India's post-independence statistical infrastructure—the Indian Statistical System entered a period of decline. This "post-Mahalanobis era" was characterized by a lack of investment in computing resources, a growing insularity from the rest of the world, and the declining influence of the Planning Commission. To identify these deep-rooted deficiencies and suggest remedies, the central government appointed the National Statistical Commission led by Dr. C. Rangarajan in 2000._
+
+**Key Recommendations and Their Outcomes**
+_The Rangarajan Commission made several sweeping recommendations to revamp the system. While some were successfully implemented, others remain incomplete:_
+
+*   **Establishment of the National Statistical Commission (NSC):** _The Rangarajan Commission recommended creating a permanent, statutory apex body that would be independent of the government and directly responsible to Parliament._
+
+    *   *Outcome:* _The government officially constituted the NSC on July 12, 2006, to serve as the nodal and empowered body for all core statistical activities. However, **the NSC was never granted the statutory status** that the Rangarajan Commission originally recommended._ 
+    
+*   **The Collection of Statistics Act, 2008:** The Commission recommended reforming the outdated Collection of Statistics Act of 1953 to arm statistical officers with greater powers. 
+
+    *   *Outcome:* _The new Collection of Statistics Act was enacted in 2008, providing comprehensive legal support to collect various socio-economic and industrial data. Despite this, critics note that the new Act still has limited powers._
+    
+*   **Professional Leadership (Chief Statistician of India):** _The Commission recommended that the Secretary of the Ministry of Statistics and Programme Implementation (MoSPI) should be a professional statistician._
+    *   *Outcome:* _This was successfully implemented. The post of **Chief Statistician of India** was created to head the National Statistical Office, and this individual also serves as the Secretary to the Government of India in MoSPI and as the Secretary of the NSC._
+    
+*   **Data Warehousing and Census Modifications:** _The Commission recommended transforming the Computer Centre division into a comprehensive data warehouse for official statistics, and modifying the Census Act to allow economic censuses to be conducted during the population house-listing phase._
+    *   *Outcome:* _The data warehouse remains a goal despite several attempts, and the modification to the Census Act was not implemented._
+
+**Structure and Mandate of the NSC Today**
+_As established in 2006, the NSC is tasked with evolving policies, priorities, and standards in statistical matters, and ensuring statistical coordination among different agencies. It consists of a part-time Chairperson and four part-time Members, each bringing specialization from distinct fields: economic statistics, social and environment statistics, censuses and surveys, and national accounts/state statistical systems. The Secretary of the Planning Commission also serves as an ex-officio member._
+
 
 #### **Constitutional and Legal Framework**
 The Indian Constitution dictates how statistical responsibilities are shared. In the Seventh Schedule, the subject of ‘Statistics’ is covered in both the **Union List (Entry 94)** and the **Concurrent List (Entry 45)**. Because it is on the Concurrent List, both the Central and State Governments have the authority to operate and collect data in this domain. 
